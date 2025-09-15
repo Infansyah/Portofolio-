@@ -1,0 +1,29 @@
+Lisensi Terbuka untuk Umum
+
+Hak Cipta (c) 2025 Asep Gustiawan
+
+Izin diberikan secara gratis kepada siapa pun yang mendapatkan salinan perangkat lunak ini 
+dan file dokumentasi terkait ("Perangkat Lunak") untuk mempergunakan Perangkat Lunak 
+untuk tujuan apapun yang bersifat umum, termasuk menyalin, memodifikasi, menggabungkan, 
+atau mendistribusikan ulang. 
+
+Namun, perangkat lunak ini **tidak boleh diperjualbelikan** dalam bentuk apapun, 
+baik secara langsung maupun tidak langsung.
+
+Syarat utama: pemberitahuan hak cipta di atas dan teks lisensi ini wajib 
+disertakan dalam semua salinan atau distribusi dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, 
+BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN 
+KELAYAKAN UNTUK DIPERJUALBELIKAN, KECOCOKAN UNTUK TUJUAN TERTENTU, 
+DAN TIDAK MELANGGAR HAK. DALAM KEADAAN APA PUN, PENULIS ATAU PEMEGANG HAK CIPTA 
+TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU KEWAJIBAN LAIN, 
+YANG TIMBUL DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN 
+ATAU INTERAKSI LAINNYA DENGAN PERANGKAT LUNAK INI.
+
+
+Tiktok: @gustiawan.dev 
+Support via Dana: 085722233126  
+
+Support gua biar semangat bikin kontennya dengan cara kirim duit atau follow akun tiktok gua wkwk
+Makasih banyak sebelumnya, support kecil lu berarti banget buat gua 🙏
