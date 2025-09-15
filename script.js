@@ -47,7 +47,7 @@ const counterObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
         if (entry.isIntersecting) {
             const counterNumbers = entry.target.querySelectorAll('.counter-number');
-            const targets = [47, 35, 5, 12];
+            const targets = [2, -, 5, -];
 
             counterNumbers.forEach((counter, index) => {
                 animateCounter(counter, targets[index]);
